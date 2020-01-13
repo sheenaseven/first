@@ -1,3 +1,3 @@
 # first
 
-![Image description](link-to-image)
+![Image description](first.jpg)
